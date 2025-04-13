@@ -6,7 +6,6 @@
  
  <img align="center" alt="" src="./src/header-gif.gif">
  
-
 - 🌱 Estudando Front-End
 - 😄 Pronome: Ela/dela
 
