@@ -6,8 +6,8 @@
  
  <img align="center" alt="" src="./src/header-gif.gif">
  
-- 🌱 Estudando Front-End
-- 😄 Pronome: Ela/dela
+ 🌱 Estudando Front-End
+ 😄 Pronome: Ela/dela
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiifp&show_icons=true&theme=tokyonight)
 
